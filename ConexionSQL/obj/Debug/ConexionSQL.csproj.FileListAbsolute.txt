@@ -1,0 +1,10 @@
+C:\Users\Pc\source\repos\ConexionSQL\ConexionSQL\bin\Debug\ConexionSQL.exe.config
+C:\Users\Pc\source\repos\ConexionSQL\ConexionSQL\bin\Debug\ConexionSQL.exe
+C:\Users\Pc\source\repos\ConexionSQL\ConexionSQL\bin\Debug\ConexionSQL.pdb
+C:\Users\Pc\source\repos\ConexionSQL\ConexionSQL\obj\Debug\ConexionSQL.csproj.AssemblyReference.cache
+C:\Users\Pc\source\repos\ConexionSQL\ConexionSQL\obj\Debug\ConexionSQL.Login.resources
+C:\Users\Pc\source\repos\ConexionSQL\ConexionSQL\obj\Debug\ConexionSQL.Properties.Resources.resources
+C:\Users\Pc\source\repos\ConexionSQL\ConexionSQL\obj\Debug\ConexionSQL.csproj.GenerateResource.cache
+C:\Users\Pc\source\repos\ConexionSQL\ConexionSQL\obj\Debug\ConexionSQL.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\ConexionSQL\ConexionSQL\obj\Debug\ConexionSQL.exe
+C:\Users\Pc\source\repos\ConexionSQL\ConexionSQL\obj\Debug\ConexionSQL.pdb
